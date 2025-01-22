@@ -10,7 +10,7 @@ A beginner-friendly fitness tracker app with BMI calculation. Built with Python.
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run `python main.py`.
-
+4. fitness_app_gui.py is for gui
 ## Features
 - Add Fitness Data
 - View Fitness Data
